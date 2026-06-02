@@ -10,7 +10,6 @@ This document provides the required information and commands for deploying and m
 3_OpenClaw
 ├── assets/          # Asset files (images, media, etc.)
 ├── results/         # Output data, logs, or test results
-├── slides/          # Presentation slides or materials
 ├── Prompts.md       # Markdown file containing project prompts
 └── README.md        # Project documentation (this file)
 ```
@@ -28,19 +27,44 @@ This document provides the required information and commands for deploying and m
 
 # Prerequisites
 
-## For Cloud Deployment
+## Required Configuration
+
+This guide covers the necessary environment variables and accounts required to run the project, depending on your use case.
+
+### 1. OpenAI Setup
+You need an API key to authenticate requests to OpenAI.
+* **Get a Key:** [OpenAI API Keys Portal](https://platform.openai.com/api-keys)
+* **Environment Variable:**
+    ```bash
+    OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
+    ```
+
+### 2. Discord Setup
+A Discord bot application is required to handle chat interactions.
+- Create an App: [Discord Developer Portal](https://discord.com/developers/applications)
+- Environment Variable:
+    ```bash
+    DISCORD_BOT_TOKEN="YOUR_DISCORD_BOT_TOKEN"
+    ```
+---
+
+## Deployment Tracks
+
+Depending on whether you are deploying the application to production or just participating in the live demo, review the requirements below:
+
+### Track A: Cloud Deployment
 
 The following components are required to deploy OpenClaw in the cloud:
 
 - AWS Account
 - OpenAI API Key
-- Discord Account
+- Discord Account & Bot Token
 
-## For the Workshop / Demo
+### Track B: Workshop / Demo
 
 For this demonstration, only **Discord** is required.  
 
-No additional setup is needed from participants.
+> 💡 Note: No additional cloud setup or API keys are needed from participants for this track.
 
 ---
 
@@ -159,31 +183,6 @@ scp -i "iris-openclaw-demo-key-pair.pem" ubuntu@<PUBLIC-IP-V4>:/home/ubuntu/.ope
 
 ```bash
 scp -i "iris-openclaw-demo-key-pair.pem" ubuntu@<PUBLIC-IP-V4>:/home/ubuntu/.openclaw/workspace/<PATH_TO_FILE> ~/Downloads/
-```
-
----
-
-# OpenAI Configuration
-
-Set your OpenAI API key:
-
-```bash
-OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
-```
-
----
-
-# Discord Configuration
-
-## Discord Developer Portal
-
-https://discord.com/developers/applications
-
-Create a Discord application and bot, then configure the following values:
-
-```bash
-APP_NAME="OpenClaw_Demo"
-DISCORD_BOT_TOKEN="YOUR_DISCORD_BOT_TOKEN"
 ```
 
 ---
