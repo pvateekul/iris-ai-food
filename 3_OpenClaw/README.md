@@ -95,6 +95,12 @@ openclaw status
 openclaw gateway status
 ```
 
+## Update Discord Plugin
+
+```bash
+openclaw plugins update discord
+```
+
 ## Update OpenClaw
 
 ```bash
