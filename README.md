@@ -6,7 +6,7 @@
 
 | Topic / Module | Presentation Slides |
 | :--- | :--- |
-| **1. Prompt Engineering / RAG / Agentic Workflow** | 📄 [IRIS Activity Brief](1_PromptEngineering/slides/IRIS_Activity_Brief.pdf)<br>📄 [LangChain and LangGraph](1_PromptEngineering/slides/LangChain_LangGraph.pdf)<br>📄 [Prompt Engineering, RAG & Agentic Workflow](1_PromptEngineering/slides/PromptEng_RAG_Agentic.pdf) |
+| **1. Prompt Engineering / RAG / Agentic Workflow** | 📄 [LangChain and LangGraph](1_PromptEngineering/slides/LangChain_LangGraph.pdf)<br>📄 [Prompt Engineering, RAG & Agentic Workflow](1_PromptEngineering/slides/PromptEng_RAG_Agentic.pdf)<br>📄 [IRIS Activity Brief](1_PromptEngineering/slides/IRIS_Activity_Brief.pdf) |
 | **2. Codex** | 📄 [Codex](2_Codex/slides/Codex.pdf) |
 | **3. OpenClaw** | 📄 [NotebookLM](3_OpenClaw/slides/NotebookLM.pdf)<br>📄 [OpenClaw](3_OpenClaw/slides/OpenClaw.pdf) |
 
