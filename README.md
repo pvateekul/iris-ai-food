@@ -16,9 +16,9 @@
 2. RAG [`API-LangChain`]: [![Open In Colab](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/1_PromptEngineering/codes/02_rag.ipynb)
 3. Agentic Workflow [`API-LangChain-LangGraph`]: [![Open In Colab](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/1_PromptEngineering/codes/02_rag.ipynb)
 
-4. IRIS Activities: [![Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.jpg?raw=true)](https://docs.google.com/document/d/1QVCuzsA3GthoOyU3CoB8JbyY6feOpMqVYXHlA22X9B0/edit?usp=sharing)
+4. IRIS Activities: <a href="https://docs.google.com/document/d/1QVCuzsA3GthoOyU3CoB8JbyY6feOpMqVYXHlA22X9B0/edit?usp=sharing"><img src="https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/ggdoc-logo.jpg" width="20"></a>
 
 ## Day 2: Codex Lab Sheet
 
 1. Attachment: [Download Codex Lab Attachments (.zip)](./2_Codex/assets/codex_lab_attachments.zip)
-2. Codex Lab Sheet : [![Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.jpg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true)
+2. Codex Lab Sheet: <a href="https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true"><img src="https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/ggdoc-logo.jpg" width="20"></a>
