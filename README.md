@@ -14,7 +14,7 @@
 
 1. Prompt Engineering [`API-LangChain`]: [![Open In Colab](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/1_PromptEngineering/codes/01_prompt_engineering.ipynb)
 2. RAG [`API-LangChain`]: [![Open In Colab](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/1_PromptEngineering/codes/02_rag.ipynb)
-3. Agentic Workflow [`API-LangChain-LangGraph`]: [![Open In Colab](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/1_PromptEngineering/codes/02_rag.ipynb)
+3. Agentic Workflow [`API-LangChain-LangGraph`]: [![Open In Colab](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/1_PromptEngineering/codes/03_agentic_workflow.ipynb)
 4. Prompt Pack for Web Version (ChatGPT): [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1QVCuzsA3GthoOyU3CoB8JbyY6feOpMqVYXHlA22X9B0/edit?usp=sharing)
 5. IRIS Activities: [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/10W48iVx5z5S8FbQpoDgX4GFlu7MMGopg/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true)
 
