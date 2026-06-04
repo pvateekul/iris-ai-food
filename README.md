@@ -27,3 +27,7 @@
 
 1. Attachment: [Download Codex Lab Attachments (.zip)](./2_Codex/assets/codex_lab_attachments.zip)
 2. Codex Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true")
+
+## Day 3: OpenClaw
+
+1. OpenClaw Lab Demo Prompts: [Prompt Templates](./3_OpenClaw/Prompts.md)
