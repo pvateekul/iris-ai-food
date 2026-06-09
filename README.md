@@ -6,9 +6,9 @@
 
 | Topic / Module | Presentation Slides |
 | :--- | :--- |
-| **1. Prompt Engineering / RAG / Agentic Workflow** | 📄 [Prompt Engineering, RAG & Agentic Workflow](1_PromptEngineering/slides/PromptEng_RAG_Agentic.pdf)<br>📄 [LangChain and LangGraph](1_PromptEngineering/slides/LangChain_LangGraph.pdf)<br>📄 [IRIS Activity Brief](1_PromptEngineering/slides/IRIS_Activity_Brief.pdf) |
+| **1. Prompt Engineering / RAG / Agentic Workflow** | 📄 [Prompt Engineering, RAG & Agentic Workflow](1_PromptEngineering/slides/PromptEng_RAG_Agentic.pdf)<br>📄 [LangChain and LangGraph](1_PromptEngineering/slides/LangChain_LangGraph.pdf)<br>📄 [IRIS Activity Brief - Day 1](1_PromptEngineering/slides/IRIS_Activity_Brief.pdf) |
 | **2. Codex** | 📄 [Codex](2_Codex/slides/Codex.pdf) <br> 📄 [IRIS Activity Brief - Day 2](2_Codex/slides/Day2_IRIS_Activity_Brief.pdf) |
-| **3. OpenClaw** | 📄 [NotebookLM](3_OpenClaw/slides/NotebookLM.pdf)<br>📄 [OpenClaw](3_OpenClaw/slides/OpenClaw.pdf) |
+| **3. OpenClaw** | 📄 [NotebookLM](3_OpenClaw/slides/NotebookLM.pdf)<br>📄 [OpenClaw](3_OpenClaw/slides/OpenClaw.pdf) <br> 📄 [IRIS Activity Brief - Day 3](3_OpenClaw/slides/Day3_IRIS_Activity_Brief.pdf) |
 
 ## Day 1: Codes and Activities
 
@@ -38,3 +38,4 @@
 ## Day 3: OpenClaw
 
 1. OpenClaw Lab Demo Prompts: [Prompt Templates](./3_OpenClaw/Prompts.md)
+<!-- 2. Day 3 Activity Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)]() -->
