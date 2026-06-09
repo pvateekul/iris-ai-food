@@ -36,6 +36,12 @@
 2. Codex Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true")
 3. Manual การเข้าใช้งาน Codex / Discord: [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1lLM46z8YWxLd3a2zkb5dX0MASFGpInz5e8UzMY_Nk80/edit?usp=sharing")
 
+### Day 2 Activity Submission
+
+| Batch | Link |
+| :--- | :--- |
+| Batch 5 | |
+
 ### Getting Started Guide for Codex and Discord : 
 
 1. Manual: [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1lLM46z8YWxLd3a2zkb5dX0MASFGpInz5e8UzMY_Nk80/edit?usp=sharing)
