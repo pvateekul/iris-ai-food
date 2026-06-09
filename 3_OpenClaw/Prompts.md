@@ -6,7 +6,7 @@ This document contains all prompts used in the OpenClaw presentation and demonst
 
 ---
 
-## 1. Hatch the Agent — Identity Setup Prompt
+## 1. Hatch the Agent — Identity Setup Prompt **(Skip)**
 
 Use this prompt to initialize the agent's identity, personality, timezone, and behavioral boundaries.
 
@@ -23,7 +23,7 @@ For my boundaries:
 
 ---
 
-## 2. Code Generation Prompt
+## 2. HTML Generation Prompt
 
 Use this prompt to generate a modern landing page showcasing OpenClaw capabilities.
 
@@ -63,7 +63,8 @@ Use this prompt to create a scheduled analytics workflow that analyzes food pric
 @<OpenClaw> Please analyze the dataset food_prices.csv. Your task is to identify the top 5 foods with the highest price volatility and provide a visualization, set this task to automation everyday at 12.00 PM.
 ```
 
-> Don't forget to insert `food_prices.csv` in Discord channel.
+> Don't forget to insert `food_prices.csv` in Discord channel.   
+[Link to file](./assets/food_prices.csv)
 
 ---
 
