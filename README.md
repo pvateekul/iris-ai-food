@@ -39,7 +39,7 @@
 
 1. Manual: [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1lLM46z8YWxLd3a2zkb5dX0MASFGpInz5e8UzMY_Nk80/edit?usp=sharing)
 
-### End-of-Day Activity Submission – Day 1
+### End-of-Day Activity Submission – Day 2
 
 | Batch | Link |
 | :--- | :--- |
