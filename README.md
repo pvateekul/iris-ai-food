@@ -25,7 +25,7 @@
 
 ### End-of-Day Activity Submission – Day 1
 
-(AI-Assisted Solution : [![Slide](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://github.com/pvateekul/iris-ai-food/blob/main/1_PromptEngineering/slides/Day1_IRIS_Activity_Solution.pdf))
+(AI-Assisted Solution : [Slide](https://github.com/pvateekul/iris-ai-food/blob/main/1_PromptEngineering/slides/Day1_IRIS_Activity_Solution.pdf))
 
 | Batch | Link |
 | :--- | :--- |
