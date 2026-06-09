@@ -18,22 +18,32 @@
 4. Prompt Pack for Web Version (ChatGPT): [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1QVCuzsA3GthoOyU3CoB8JbyY6feOpMqVYXHlA22X9B0/edit?usp=sharing)
 5. IRIS Activities: [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/10W48iVx5z5S8FbQpoDgX4GFlu7MMGopg/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true)
 
-### Activity Submission
-
-| Batch | Link |
-| :--- | :--- |
-| Batch 5 | [Open in Google Drive](https://drive.google.com/drive/u/2/folders/106vIiJajjxTF4DDjVfv5ak25oOFlL3Av) |
-
 ### Manual for Getting an API Key : 
 
 1. OpenAI API Key: [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1UpW0-7PNaeWjs2EGLisDazIGes8GaXdS/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true)
 2. Groq API Key: [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1OFwzdRdfgwD4coupj9H8qKJAUJUIq781/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true)
 
-## Day 2: Codex Lab Sheet
+### End-of-Day Activity Submission – Day 1
+
+| Batch | Link |
+| :--- | :--- |
+| Batch 5 | [Open in Google Drive](https://drive.google.com/drive/u/2/folders/106vIiJajjxTF4DDjVfv5ak25oOFlL3Av) |
+| Batch 7 | |
+
+## Day 2: Codex
 
 1. Attachment: [Download Codex Lab Attachments (.zip)](https://github.com/pvateekul/iris-ai-food/raw/5f73f85ef0b27682e0e8e5588ea56b37b2bcee08/2_Codex/assets/codex_lab_attachments.zip)
 2. Codex Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true")
-3. Manual การเข้าใช้งาน Codex / Discord: [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1lLM46z8YWxLd3a2zkb5dX0MASFGpInz5e8UzMY_Nk80/edit?usp=sharing")
+
+### Getting Started Guide for Codex and Discord : 
+
+1. Manual: [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1lLM46z8YWxLd3a2zkb5dX0MASFGpInz5e8UzMY_Nk80/edit?usp=sharing)
+
+### End-of-Day Activity Submission – Day 2
+
+| Batch | Link |
+| :--- | :--- |
+| Batch 5 | |
 
 ## Day 3: OpenClaw
 
