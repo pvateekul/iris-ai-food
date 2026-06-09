@@ -43,7 +43,7 @@
 
 ### End-of-Day Activity Submission – Day 2
 
-(AI-Assisted Solution : [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1-hYrTu_m3_RJOcB62276UqMtP5PqKkcjmXgzzMfcC44/edit?usp=sharing)
+(AI-Assisted Solution : [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1-hYrTu_m3_RJOcB62276UqMtP5PqKkcjmXgzzMfcC44/edit?usp=sharing))
 
 | Batch | Link |
 | :--- | :--- |
