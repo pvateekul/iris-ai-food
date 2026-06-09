@@ -30,7 +30,7 @@
 | Batch 5 | [Open in Google Drive](https://drive.google.com/drive/u/2/folders/106vIiJajjxTF4DDjVfv5ak25oOFlL3Av) |
 | Batch 7 | |
 
-## Day 2: Codex Lab Sheet
+## Day 2: Codex
 
 1. Attachment: [Download Codex Lab Attachments (.zip)](https://github.com/pvateekul/iris-ai-food/raw/5f73f85ef0b27682e0e8e5588ea56b37b2bcee08/2_Codex/assets/codex_lab_attachments.zip)
 2. Codex Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true")
