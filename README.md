@@ -10,6 +10,18 @@
 | **2. Codex** | 📄 [Codex](2_Codex/slides/Codex.pdf) <br> 📄 [IRIS Activity Brief - Day 2](2_Codex/slides/Day2_IRIS_Activity_Brief.pdf) |
 | **3. OpenClaw** | 📄 [OpenClaw](3_OpenClaw/slides/OpenClaw.pdf) <br> 📄 [NotebookLM](3_OpenClaw/slides/NotebookLM.pdf)<br> 📄 [IRIS Activity Brief - Day 3](3_OpenClaw/slides/Day3_IRIS_Activity_Brief.pdf) |
 
+---
+
+## 🛠️ Setup & Manuals
+
+| Item | Manual |
+| :--- | :--- |
+| OpenAI API Key | [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1UpW0-7PNaeWjs2EGLisDazIGes8GaXdS/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true) |
+| Groq API Key | [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1OFwzdRdfgwD4coupj9H8qKJAUJUIq781/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true) |
+| Codex / Discord / n8n / Gemini API Key / Ultralytics | [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1lLM46z8YWxLd3a2zkb5dX0MASFGpInz5e8UzMY_Nk80/edit?usp=sharing) |
+
+---
+
 ## Day 1: Codes and Activities
 
 1. Prompt Engineering [`API-LangChain`]: [![Open In Colab](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/1_PromptEngineering/codes/01_prompt_engineering.ipynb)
