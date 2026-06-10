@@ -25,10 +25,12 @@
 
 ### End-of-Day Activity Submission – Day 1
 
+(AI-Assisted Solution : [Slide](https://github.com/pvateekul/iris-ai-food/blob/main/1_PromptEngineering/slides/Day1_IRIS_Activity_Solution.pdf))
+
 | Batch | Link |
 | :--- | :--- |
 | Batch 5 | [Open in Google Drive](https://drive.google.com/drive/u/2/folders/106vIiJajjxTF4DDjVfv5ak25oOFlL3Av) |
-| Batch 7 | |
+| Batch 7 | [Open in Google Drive](https://drive.google.com/drive/folders/1ykguBd0OqI456bATRdYknQK-eC8wWCtg) |
 
 ## Day 2: Codex
 
@@ -40,6 +42,8 @@
 1. Manual: [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1lLM46z8YWxLd3a2zkb5dX0MASFGpInz5e8UzMY_Nk80/edit?usp=sharing)
 
 ### End-of-Day Activity Submission – Day 2
+
+(AI-Assisted Solution : [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1-hYrTu_m3_RJOcB62276UqMtP5PqKkcjmXgzzMfcC44/edit?usp=sharing))
 
 | Batch | Link |
 | :--- | :--- |
