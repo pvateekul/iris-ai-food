@@ -82,7 +82,7 @@
 - n8n workflow (JSON): [![JSON](https://img.shields.io/badge/n8n-JSON-blue)](https://github.com/pvateekul/iris-ai-food/blob/main/4_n8n/LAB%208_2%20RAG%20Chatbot.json)
 
 
-## Day 5: YOLO
+## YOLO
 
 1. Model evaluation image detection with YOLO (Ultralytics Hub) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_1_ultralyricshub.ipynb)
 
