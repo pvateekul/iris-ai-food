@@ -8,7 +8,7 @@
 | :--- | :--- |
 | **1. Prompt Engineering / RAG / Agentic Workflow** | 📄 [Prompt Engineering, RAG & Agentic Workflow](1_PromptEngineering/slides/PromptEng_RAG_Agentic.pdf)<br>📄 [LangChain and LangGraph](1_PromptEngineering/slides/LangChain_LangGraph.pdf)<br>📄 [IRIS Activity Brief - Day 1](1_PromptEngineering/slides/Day1_IRIS_Activity_Brief.pdf) |
 | **2. Codex** | 📄 [Codex](2_Codex/slides/Codex.pdf) <br> 📄 [IRIS Activity Brief - Day 2](2_Codex/slides/Day2_IRIS_Activity_Brief.pdf) |
-| **3. OpenClaw** | 📄 [NotebookLM](3_OpenClaw/slides/NotebookLM.pdf)<br>📄 [OpenClaw](3_OpenClaw/slides/OpenClaw.pdf) <br> 📄 [IRIS Activity Brief - Day 3](3_OpenClaw/slides/Day3_IRIS_Activity_Brief.pdf) |
+| **3. OpenClaw** | 📄 [OpenClaw](3_OpenClaw/slides/OpenClaw.pdf) <br> 📄 [NotebookLM](3_OpenClaw/slides/NotebookLM.pdf)<br> 📄 [IRIS Activity Brief - Day 3](3_OpenClaw/slides/Day3_IRIS_Activity_Brief.pdf) |
 
 ## Day 1: Codes and Activities
 
@@ -49,3 +49,13 @@
 
 1. OpenClaw Lab Demo Prompts: [Prompt Templates](./3_OpenClaw/Prompts.md)
 <!-- 2. Day 3 Activity Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)]() -->
+
+## Day 4: n8n
+
+<!-- todo -->
+
+## Day 5: YOLO
+
+1. Model evaluation image detection with YOLO (Ultralytics Hub) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_1_ultralyricshub.ipynb)
+
+2. Image detection with YOLO (Ultralytics) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_2_ultralyrics.ipynb)
