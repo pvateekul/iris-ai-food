@@ -61,7 +61,7 @@
 1. OpenClaw Lab Demo Prompts: [Prompt Templates](./3_OpenClaw/Prompts.md)
 <!-- 2. Day 3 Activity Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)]() -->
 
-## Day 4: n8n
+## n8n
 
 1. Simple Chatbot
 - Diagram: [![PNG](https://img.shields.io/badge/View-Diagram-lightgrey)](https://github.com/pvateekul/iris-ai-food/blob/main/4_n8n/Lab8_0.png)
