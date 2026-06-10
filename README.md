@@ -37,7 +37,7 @@
 1. Attachment: [Download Codex Lab Attachments (.zip)](https://github.com/pvateekul/iris-ai-food/raw/5f73f85ef0b27682e0e8e5588ea56b37b2bcee08/2_Codex/assets/codex_lab_attachments.zip)
 2. Codex Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true")
 
-### Getting Started Guide for Codex and Discord : 
+### Getting Started Guide for Codex / Discord / n8n / Gemini API Key / Ultralytics: 
 
 1. Manual: [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1lLM46z8YWxLd3a2zkb5dX0MASFGpInz5e8UzMY_Nk80/edit?usp=sharing)
 
