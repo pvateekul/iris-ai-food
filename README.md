@@ -54,7 +54,7 @@
 
 | Batch | Link |
 | :--- | :--- |
-| Batch 5 | [Open in Google Drive] (https://drive.google.com/drive/folders/1qBr71qPxnkiv_Svv7PGGz2I1I3c-aOPr?usp=sharing)|
+| Batch 5 | [Open in Google Drive](https://drive.google.com/drive/folders/1qBr71qPxnkiv_Svv7PGGz2I1I3c-aOPr?usp=sharing)|
 
 ## Day 3: OpenClaw
 
