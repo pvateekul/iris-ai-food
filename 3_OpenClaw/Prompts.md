@@ -8,6 +8,8 @@ This document contains all prompts used in the OpenClaw presentation and demonst
 
 ## 0. Hatch the Agent — Identity Setup Prompt **<font color='red'>(Skip)</font>**
 
+$${\\color{red}You \\space can \\space skip \\space this \\space lab!}$$
+
 > Use this prompt in `#main` channel
 
 Use this prompt to initialize the agent's identity, personality, timezone, and behavioral boundaries.
