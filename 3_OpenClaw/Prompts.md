@@ -10,7 +10,7 @@ This document contains all prompts used in the OpenClaw presentation and demonst
 
 $${\\color{red}You \\space can \\space skip \\space this \\space lab!}$$
 
-> Use this prompt in `#main` channel
+> Use this prompt in `#main` channel.  
 
 Use this prompt to initialize the agent's identity, personality, timezone, and behavioral boundaries.
 
@@ -29,8 +29,8 @@ For my boundaries:
 
 ## 1. Basic Interaction with OpenClaw
 
-> Use these prompts in the `#main` channel.
-> This lab should take around 2 minutes.
+> Use these prompts in the `#main` channel.  
+> This lab should take around 2 minutes.  
 
 Use the following prompts to explore OpenClaw's basic conversational capabilities.
 
@@ -69,8 +69,8 @@ Feel free to ask your own questions and continue the conversation to explore Ope
 
 ## 2. Markdown Generation Prompt
 
-> Use this prompt in the `#main` channel
-> This lab should take around 2 minutes.
+> Use this prompt in the `#main` channel.  
+> This lab should take around 2 minutes.  
 
 Use this prompt to generate a markdown file showcasing OpenClaw capabilities.
 
@@ -105,8 +105,8 @@ After generating the Markdown file, use the following prompt to post it back to 
 
 ## 3. Food Price Analysis Automation
 
-> Use this prompt in the `#main` channel
-> This lab should take around 3 minutes.
+> Use this prompt in the `#main` channel.  
+> This lab should take around 3 minutes.  
 
 Use this prompt to analyze food price volatility and identify the most unstable food items in the dataset.
 
@@ -121,8 +121,8 @@ Use this prompt to analyze food price volatility and identify the most unstable 
 
 ## 4. Testing News Searching Agent
 
-> Use this prompt in the `#news` channel
-> This lab should take around 1 minutes.
+> Use this prompt in the `#news` channel.  
+> This lab should take around 1 minutes.  
 
 Use this prompt to test the news search and retrieval capability.
 
@@ -140,9 +140,9 @@ Use this prompt to test the news search and retrieval capability.
 
 ## 5. Testing News Content Agent
 
-> Use this prompt in the `#content` channel
-> This lab should take around 1 minutes.
-> This lab is a continuation of the previous lab (Testing News Searching Agent).
+> Use this prompt in the `#content` channel.  
+> This lab should take around 1 minutes.  
+> This lab is a continuation of the previous lab (Testing News Searching Agent).  
 
 You can copy selected news content and source references from the **News Searching Agent** output and paste them directly into the content channel.
 
@@ -160,8 +160,8 @@ You can copy selected news content and source references from the **News Searchi
 
 ## 6. AI Agent Custom Skill with OpenClaw
 
-> Use this prompt in the `#main` channel
-> This lab should take around 3 minutes.
+> Use this prompt in the `#main` channel.  
+> This lab should take around 3 minutes.  
 
 Use this prompt to demonstrate custom skill execution using the `vo-to-slides` skill.
 
