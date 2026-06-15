@@ -86,3 +86,5 @@
 1. Model evaluation image detection with YOLO (Ultralytics Hub) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_1_ultralyricshub.ipynb)
 
 2. Image detection with YOLO (Ultralytics) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_2_ultralyrics.ipynb)
+
+3. No Code Version : [Slide](https://github.com/pvateekul/iris-ai-food/blob/main/5_YOLO/Demo_Ultralytics.pdf))
