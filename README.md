@@ -59,11 +59,12 @@
 ## Day 3: OpenClaw
 
 1. OpenClaw Lab Demo Prompts: [Prompt Templates](./3_OpenClaw/Prompts.md)
-2. Day 3 Activity Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1NxbGB2JP5_FUZco3rOs38QoJ0Ux1MlGg/edit?usp=sharing&ouid=114216695598597482325&rtpof=true&sd=true)
+2. NotebookLM Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1seooI6m9VGKpX8227rI6ElyxSCbb44uYgngkMbZhtsM/edit?usp=sharing)
+3. Day 3 Activity Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1NxbGB2JP5_FUZco3rOs38QoJ0Ux1MlGg/edit?usp=sharing)
 
 ### End-of-Day Activity Submission – Day 3
 
-(AI-Assisted Solution : [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1d64LyiTDgKgSwWRmiB9WtbxiTOJdxybF/edit?usp=sharing&ouid=114216695598597482325&rtpof=true&sd=true))
+(AI-Assisted Solution : [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1d64LyiTDgKgSwWRmiB9WtbxiTOJdxybF/edit?usp=sharing))
 
 | Batch | Link |
 | :--- | :--- |
