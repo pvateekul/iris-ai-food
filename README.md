@@ -69,7 +69,7 @@
 
 | Batch | Link |
 | :--- | :--- |
-| Batch 5 | [Open in Google Drive]()|
+| Batch 5 | [Open in Google Drive](https://drive.google.com/drive/folders/1G-ugTAuXNktDzLHmSUUQLYGlxf3rExuC?usp=sharing)|
 
 ## n8n
 
