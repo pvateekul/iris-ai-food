@@ -73,13 +73,13 @@
 
 ## YOLO
 
-1. Model evaluation image detection with YOLO (Ultralytics Hub) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_1_ultralyricshub.ipynb)
-
-2. Image detection with YOLO (Ultralytics) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_2_ultralyrics.ipynb)
-
-3. No-code Version : [Slide](https://github.com/pvateekul/iris-ai-food/blob/main/5_YOLO/Demo_Ultralytics.pdf)
+1. Image detection with YOLO (No Code, Ultralytics Platform) : [Slide](https://github.com/pvateekul/iris-ai-food/blob/main/5_YOLO/Demo_Ultralytics.pdf)
 - Dataset 1 (Polyp) : [Download](https://github.com/pvateekul/iris-ai-food/raw/refs/heads/main/5_YOLO/polyp_detect.zip)
 - Dataset 2 (Defect Detection) : [Download](https://github.com/pvateekul/iris-ai-food/raw/refs/heads/main/5_YOLO/food%20defects.v1i.yolov8.zip)
+
+2. Image detection with YOLO (Code, Ultralytics) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_2_ultralyrics.ipynb)
+
+3. Model evaluation (Code, Ultralytics Platform) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_1_ultralyricshub.ipynb)
 
 ## n8n
 
