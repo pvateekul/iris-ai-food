@@ -71,6 +71,16 @@
 | :--- | :--- |
 | Batch 5 | [Open in Google Drive](https://drive.google.com/drive/folders/1G-ugTAuXNktDzLHmSUUQLYGlxf3rExuC?usp=sharing)|
 
+## YOLO
+
+1. Model evaluation image detection with YOLO (Ultralytics Hub) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_1_ultralyricshub.ipynb)
+
+2. Image detection with YOLO (Ultralytics) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_2_ultralyrics.ipynb)
+
+3. No-code Version : [Slide](https://github.com/pvateekul/iris-ai-food/blob/main/5_YOLO/Demo_Ultralytics.pdf)
+- Dataset 1 (Polyp) : [Download](https://github.com/pvateekul/iris-ai-food/raw/refs/heads/main/5_YOLO/polyp_detect.zip)
+- Dataset 2 (Defect Detection) : [Download](https://github.com/pvateekul/iris-ai-food/raw/refs/heads/main/5_YOLO/food%20defects.v1i.yolov8.zip)
+
 ## n8n
 
 1. Simple Chatbot
@@ -90,13 +100,3 @@
 - RAG data: [![PDF](https://img.shields.io/badge/Open-PDF-red)](https://github.com/pvateekul/iris-ai-food/blob/main/4_n8n/%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%9A_%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%94%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%AB%E0%B8%B4%E0%B8%95%E0%B8%AA%E0%B8%B9%E0%B8%87%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%84%E0%B8%B4%E0%B8%94.pdf)
 - Prompt Messages: [![TXT](https://img.shields.io/badge/TXT-.txt-blue)](https://github.com/pvateekul/iris-ai-food/blob/main/4_n8n/Lab8_2_script.txt)
 - n8n workflow (JSON): [![JSON](https://img.shields.io/badge/n8n-JSON-blue)](https://github.com/pvateekul/iris-ai-food/blob/main/4_n8n/LAB%208_2%20RAG%20Chatbot.json)
-
-## YOLO
-
-1. Model evaluation image detection with YOLO (Ultralytics Hub) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_1_ultralyricshub.ipynb)
-
-2. Image detection with YOLO (Ultralytics) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_2_ultralyrics.ipynb)
-
-3. No-code Version : [Slide](https://github.com/pvateekul/iris-ai-food/blob/main/5_YOLO/Demo_Ultralytics.pdf)
-- Dataset 1 (Polyp) : [Download](https://github.com/pvateekul/iris-ai-food/raw/refs/heads/main/5_YOLO/polyp_detect.zip)
-- Dataset 2 (Defect Detection) : [Download](https://github.com/pvateekul/iris-ai-food/raw/refs/heads/main/5_YOLO/food%20defects.v1i.yolov8.zip)
