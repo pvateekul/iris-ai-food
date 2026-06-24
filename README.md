@@ -70,6 +70,8 @@
 | Batch | Link |
 | :--- | :--- |
 | Batch 5 | [Open in Google Drive](https://drive.google.com/drive/folders/1G-ugTAuXNktDzLHmSUUQLYGlxf3rExuC?usp=sharing)|
+| Batch 7 | [Open in Google Drive](https://drive.google.com/drive/folders/1fEMPX5BUihM3GZFk9TtFZ3JTtBc5NewK?usp=sharing) |
+
 
 ## YOLO
 
