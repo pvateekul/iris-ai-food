@@ -38,6 +38,7 @@
 | :--- | :--- |
 | Batch 5 | [Open in Google Drive](https://drive.google.com/drive/u/2/folders/106vIiJajjxTF4DDjVfv5ak25oOFlL3Av) |
 | Batch 7 | [Open in Google Drive](https://drive.google.com/drive/folders/1ykguBd0OqI456bATRdYknQK-eC8wWCtg) |
+| Batch 12 | [Open in Google Drive]() |
 
 ## Day 2: Codex
 
