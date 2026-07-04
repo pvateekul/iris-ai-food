@@ -43,7 +43,7 @@
 ## Day 2: Codex
 
 1. Attachment: [Download Codex Lab Attachments (.zip)](https://github.com/pvateekul/iris-ai-food/raw/5f73f85ef0b27682e0e8e5588ea56b37b2bcee08/2_Codex/assets/codex_lab_attachments.zip)
-2. Codex Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true")
+2. Codex Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-ai-food/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true")
 
 <!-- ### Getting Started Guide for Codex / Discord / n8n / Gemini API Key / Ultralytics: 
 
@@ -51,7 +51,7 @@
 
 ### End-of-Day Activity Submission – Day 2
 
-(AI-Assisted Solution : [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1-hYrTu_m3_RJOcB62276UqMtP5PqKkcjmXgzzMfcC44/edit?usp=sharing))
+(AI-Assisted Solution : [![Open In Google Docs](https://github.com/pvateekul/iris-ai-food/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1-hYrTu_m3_RJOcB62276UqMtP5PqKkcjmXgzzMfcC44/edit?usp=sharing))
 
 | Batch | Link |
 | :--- | :--- |
@@ -61,12 +61,12 @@
 ## Day 3: OpenClaw
 
 1. OpenClaw Lab Demo Prompts: [Prompt Templates](./3_OpenClaw/Prompts.md)
-2. NotebookLM Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1seooI6m9VGKpX8227rI6ElyxSCbb44uYgngkMbZhtsM/edit?usp=sharing)
-3. Day 3 Activity Sheet [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1NxbGB2JP5_FUZco3rOs38QoJ0Ux1MlGg/edit?usp=sharing)
+2. NotebookLM Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-ai-food/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1seooI6m9VGKpX8227rI6ElyxSCbb44uYgngkMbZhtsM/edit?usp=sharing)
+3. Day 3 Activity Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-ai-food/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1NxbGB2JP5_FUZco3rOs38QoJ0Ux1MlGg/edit?usp=sharing)
 
 ### End-of-Day Activity Submission – Day 3
 
-(AI-Assisted Solution : [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1d64LyiTDgKgSwWRmiB9WtbxiTOJdxybF/edit?usp=sharing))
+(AI-Assisted Solution : [![Open In Google Docs](https://github.com/pvateekul/iris-ai-food/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1d64LyiTDgKgSwWRmiB9WtbxiTOJdxybF/edit?usp=sharing))
 
 | Batch | Link |
 | :--- | :--- |
