@@ -6,8 +6,8 @@
 
 | Topic / Module | Presentation Slides |
 | :--- | :--- |
-| **1. Prompt Engineering / RAG / Agentic Workflow** | 📄 [Prompt Engineering, RAG & Agentic Workflow](https://drive.google.com/file/d/1H08Rhrd0lCLNNH1fi-GmmZkSV2S1Ms2r/view?usp=sharing)<br>📄 [LangChain and LangGraph](1_PromptEngineering/slides/LangChain_LangGraph.pdf)<br>📄 [IRIS Activity Brief - Day 1](https://drive.google.com/file/d/1ngouYgS-Ndb0zxpgarBx_cIi1yUJiJ9x/view?usp=sharing) |
-| **2. Codex** | 📄 [Codex](2_Codex/slides/Codex.pdf) <br> 📄 [IRIS Activity Brief - Day 2](https://drive.google.com/file/d/1RaKMmLzZenroIIEZHalAYh1t30DKqknS/view?usp=sharing) |
+| **1. Prompt Engineering / RAG / Agentic Workflow** | 📄 [Prompt Engineering, RAG & Agentic Workflow](https://drive.google.com/file/d/1H08Rhrd0lCLNNH1fi-GmmZkSV2S1Ms2r/view?usp=sharing)<br>📄 [LangChain and LangGraph](https://drive.google.com/file/d/1ngouYgS-Ndb0zxpgarBx_cIi1yUJiJ9x/view?usp=sharing)<br>📄 [IRIS Activity Brief - Day 1](https://drive.google.com/file/d/1ngouYgS-Ndb0zxpgarBx_cIi1yUJiJ9x/view?usp=sharing) |
+| **2. Codex** | 📄 [Codex](https://drive.google.com/file/d/1RaKMmLzZenroIIEZHalAYh1t30DKqknS/view?usp=sharing) <br> 📄 [IRIS Activity Brief - Day 2](https://drive.google.com/file/d/1RaKMmLzZenroIIEZHalAYh1t30DKqknS/view?usp=sharing) |
 | **3. OpenClaw** | 📄 [OpenClaw](https://drive.google.com/file/d/1-Y-AJ2EeigW0LekBUKmKssOgvfc9h_U6/view?usp=sharing) <br> 📄 [NotebookLM](https://drive.google.com/file/d/1msAsYvy5jrpAX8NK-cLtNLEhGFXPsaDD/view?usp=sharing)<br> 📄 [IRIS Activity Brief - Day 3](https://drive.google.com/file/d/199sKllslrsZky-e5nZcUq6tavNH4RBuO/view?usp=sharing) |
 
 ---
