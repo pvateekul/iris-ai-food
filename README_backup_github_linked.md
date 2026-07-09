@@ -6,9 +6,9 @@
 
 | Topic / Module | Presentation Slides |
 | :--- | :--- |
-| **1. Prompt Engineering / RAG / Agentic Workflow** | 📄 [Prompt Engineering, RAG & Agentic Workflow](https://drive.google.com/file/d/1H08Rhrd0lCLNNH1fi-GmmZkSV2S1Ms2r/view?usp=sharing)<br>📄 [LangChain and LangGraph](1_PromptEngineering/slides/LangChain_LangGraph.pdf)<br>📄 [IRIS Activity Brief - Day 1](https://drive.google.com/file/d/1ngouYgS-Ndb0zxpgarBx_cIi1yUJiJ9x/view?usp=sharing) |
-| **2. Codex** | 📄 [Codex](2_Codex/slides/Codex.pdf) <br> 📄 [IRIS Activity Brief - Day 2](https://drive.google.com/file/d/1RaKMmLzZenroIIEZHalAYh1t30DKqknS/view?usp=sharing) |
-| **3. OpenClaw** | 📄 [OpenClaw](https://drive.google.com/file/d/1-Y-AJ2EeigW0LekBUKmKssOgvfc9h_U6/view?usp=sharing) <br> 📄 [NotebookLM](https://drive.google.com/file/d/1msAsYvy5jrpAX8NK-cLtNLEhGFXPsaDD/view?usp=sharing)<br> 📄 [IRIS Activity Brief - Day 3](https://drive.google.com/file/d/199sKllslrsZky-e5nZcUq6tavNH4RBuO/view?usp=sharing) |
+| **1. Prompt Engineering / RAG / Agentic Workflow** | 📄 [Prompt Engineering, RAG & Agentic Workflow](1_PromptEngineering/slides/PromptEng_RAG_Agentic.pdf)<br>📄 [LangChain and LangGraph](1_PromptEngineering/slides/LangChain_LangGraph.pdf)<br>📄 [IRIS Activity Brief - Day 1](1_PromptEngineering/slides/Day1_IRIS_Activity_Brief.pdf) |
+| **2. Codex** | 📄 [Codex](2_Codex/slides/Codex.pdf) <br> 📄 [IRIS Activity Brief - Day 2](2_Codex/slides/Day2_IRIS_Activity_Brief.pdf) |
+| **3. OpenClaw** | 📄 [OpenClaw](3_OpenClaw/slides/OpenClaw.pdf) <br> 📄 [NotebookLM](3_OpenClaw/slides/NotebookLM.pdf)<br> 📄 [IRIS Activity Brief - Day 3](3_OpenClaw/slides/Day3_IRIS_Activity_Brief.pdf) |
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### End-of-Day Activity Submission – Day 1
 
-(AI-Assisted Solution : [Slide](https://drive.google.com/file/d/1hjq9WPZa2bjpl6QJsI4x9sSMb5AjZYqv/view?usp=sharing))
+(AI-Assisted Solution : [Slide](https://github.com/pvateekul/iris-ai-food/blob/main/1_PromptEngineering/slides/Day1_IRIS_Activity_Solution.pdf))
 
 | Batch | Link |
 | :--- | :--- |
@@ -42,7 +42,7 @@
 
 ## Day 2: Codex
 
-1. Attachment: [Download Codex Lab Attachments (.zip)](https://drive.google.com/file/d/1hVkAaapdQs6VFpGg9gpZGdbcn0LN8jbl/view?usp=sharing)
+1. Attachment: [Download Codex Lab Attachments (.zip)](https://raw.githubusercontent.com/pvateekul/iris-ai-food/main/2_Codex/assets/codex_lab_attachments.zip)
 2. Codex Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-ai-food/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true")
 
 <!-- ### Getting Started Guide for Codex / Discord / n8n / Gemini API Key / Ultralytics: 
@@ -77,9 +77,9 @@
 
 ## YOLO
 
-1. Image detection with YOLO (No Code, Ultralytics Platform) : [Slide](https://drive.google.com/file/d/1nwXXxh3ux4MoNP0y0W91m7vzte3EXz8m/view?usp=sharing)
-- Dataset 1 (Polyp) : [Download](https://drive.google.com/file/d/1G6idn8BCF2Hqz4ZQdrztwnyVG35QdIyr/view?usp=sharing)
-- Dataset 2 (Defect Detection) : [Download](https://drive.google.com/file/d/13CXJV4maiM-ILN8nfB_jnm9giItChriF/view?usp=sharing)
+1. Image detection with YOLO (No Code, Ultralytics Platform) : [Slide](https://github.com/pvateekul/iris-ai-food/blob/main/5_YOLO/Demo_Ultralytics.pdf)
+- Dataset 1 (Polyp) : [Download](https://github.com/pvateekul/iris-ai-food/raw/refs/heads/main/5_YOLO/polyp_detect.zip)
+- Dataset 2 (Defect Detection) : [Download](https://github.com/pvateekul/iris-ai-food/raw/refs/heads/main/5_YOLO/food%20defects.v1i.yolov8.zip)
 
 2. Image detection with YOLO (Code, Ultralytics) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/IRIS-AI-FOOD/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/IRIS-AI-FOOD/blob/main/5_YOLO/Lab_5_2_ultralyrics.ipynb)
 
