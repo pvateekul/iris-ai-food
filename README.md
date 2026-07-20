@@ -57,7 +57,7 @@
 | :--- | :--- |
 | Batch 5 | [Open in Google Drive](https://drive.google.com/drive/folders/1qBr71qPxnkiv_Svv7PGGz2I1I3c-aOPr?usp=sharing)|
 | Batch 7 | [Open in Google Drive](https://drive.google.com/drive/folders/1VQDP9ZDAHKosEtxq5uoEdOWxN0M-9kdc?usp=sharing) |
-| Batch 12 | [Open in Google Drive](https://drive.google.com/drive/folders/1KcajnrD5IJYYRAX7W9fiTMAbdV3lf4aG?usp=sharing)
+| Batch 12 | [Open in Google Drive](https://drive.google.com/drive/folders/1KcajnrD5IJYYRAX7W9fiTMAbdV3lf4aG?usp=sharing) |
 
 ## Day 3: OpenClaw
 
@@ -67,13 +67,14 @@
 
 ### End-of-Day Activity Submission – Day 3
 
-(AI-Assisted Solution : [![Open In Google Docs](https://github.com/pvateekul/iris-ai-food/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1d64LyiTDgKgSwWRmiB9WtbxiTOJdxybF/edit?usp=sharing))
+<!-- (AI-Assisted Solution : [![Open In Google Docs](https://github.com/pvateekul/iris-ai-food/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1d64LyiTDgKgSwWRmiB9WtbxiTOJdxybF/edit?usp=sharing)) -->
+(AI-Assisted Solution : [![Open In Google Docs](https://github.com/pvateekul/iris-ai-food/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1hhmrGNq1JYuZlawA0v-IjtG3u7kXVgPirl0iObah8q0/edit?usp=sharing))
 
 | Batch | Link |
 | :--- | :--- |
 | Batch 5 | [Open in Google Drive](https://drive.google.com/drive/folders/1G-ugTAuXNktDzLHmSUUQLYGlxf3rExuC?usp=sharing)|
 | Batch 7 | [Open in Google Drive](https://drive.google.com/drive/folders/12VlAOzyAmmmKPCnxH7_6VKGW3NieQYux?usp=sharing) |
-
+| Batch 12 | [Open in Google Drive](https://drive.google.com/drive/folders/1FbaKRjf390Z60SAbRMT68nLtK2dhx-Hr?usp=sharing) |
 
 ## YOLO
 
